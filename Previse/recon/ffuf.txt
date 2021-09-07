@@ -1,0 +1,6 @@
+[2K.htaccess               [Status: 403, Size: 277, Words: 20, Lines: 10]
+[2K.htpasswd               [Status: 403, Size: 277, Words: 20, Lines: 10]
+[2Kcss                     [Status: 301, Size: 310, Words: 20, Lines: 10]
+[2Kfavicon.ico             [Status: 200, Size: 15406, Words: 15, Lines: 10]
+[2Kjs                      [Status: 301, Size: 309, Words: 20, Lines: 10]
+[2Kserver-status           [Status: 403, Size: 277, Words: 20, Lines: 10]
